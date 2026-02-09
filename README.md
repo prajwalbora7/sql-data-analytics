@@ -1,5 +1,3 @@
-# sql-data-analytics
-SQL queries for data analysis and business insights
 ## SQL Data Analytics
 
 This repository contains SQL queries used for data analysis and business problem solving.
